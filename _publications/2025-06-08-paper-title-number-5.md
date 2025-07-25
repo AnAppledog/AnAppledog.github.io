@@ -1,11 +1,11 @@
 ---
-title: "Test Accounts: An Introduction"
+title: "Update"
 collection: publications
 category: conferences
-permalink: /publication/2025-07-25-create
+permalink: /publication/2025-07-25-Update
 excerpt: 'This paper is about testing.'
 date: 2025-07-25
-venue: 'Create'
+venue: 'Update'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Ben Wang,. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
