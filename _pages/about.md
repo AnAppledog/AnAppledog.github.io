@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Ben Wang. My home on the web!
+This is Ben Wang. My home on the web! My email address is appledog@tju.edu.cn .
