@@ -3,7 +3,7 @@ title: "Update"
 collection: publications
 category: conferences
 permalink: /publication/2025-07-25-Update
-excerpt: 'This paper is about testing.'
+excerpt: 'My home'
 date: 2025-07-25
 venue: 'Update'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
