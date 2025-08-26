@@ -17,6 +17,8 @@ My research interests includes
 
 # 🔥News
 ***
+* ***[July 2025]:*** 🎉 Our paper will submit to AAAI 2026. Thanks all Collaborators!
+
 # 📝Publications
 ***
 # 📖Educations
