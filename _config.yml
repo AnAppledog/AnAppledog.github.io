@@ -22,7 +22,7 @@ repository               : "AnAppledog/AnAppledog.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.jpg"
+  avatar           : "me2.jpg"
   name             : "Ben Wang"
   pronouns         : # "he/his"  
   bio              : "A student of TianJin University"
@@ -34,11 +34,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/this-is-a-test"
+  googlescholar    : # "https://scholar.google.com/this-is-a-test"
   impactstory      : # URL
-  orcid            : "http://orcid.org/testaccount"
+  orcid            : "https://orcid.org/0009-0009-4884-6965"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
