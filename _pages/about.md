@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Ben Wang. My home on the web! My email address is appledog@tju.edu.cn .
+Hi there! I am a fourth-year undergraduate student in the College of Intelligence and Computing, Tianjin University. My research interests include computer vision, image restoration, video restoration, and related fields. Previously, I worked as a research assistant in the Graphics Imaging and Media Computing Group, under the guidance of Dr. Fanhua Shang.
