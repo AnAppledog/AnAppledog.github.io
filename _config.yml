@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ben Wang"
-  pronouns         : "he/his"  
+  pronouns         : # "he/his"  
   bio              : "A student of TianJin University"
-  location         : "China"
+  location         : "TianJin, China"
   employer         : "TianJin University"
   uri              : # URL
   email            : "appledog@tju.edu.cn" 
