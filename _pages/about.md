@@ -15,11 +15,16 @@ My research interests includes
  * **image restoration**
  * **video restoration**
 
+
 # 🔥News
 ***
-* ***[July 2025]:*** 🎉 Our paper will submit to AAAI 2026. Thanks all Collaborators!
+* *[July 2025]:* 🎉 Our paper will submit to AAAI 2026. Thanks all Collaborators!
+
 
 # 📝Publications
 ***
+
+
 # 📖Educations
 ***
+* *2022.08 - Present*, B.S., College of Intelligence and Computing, Tianjin University
