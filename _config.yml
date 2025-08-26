@@ -22,7 +22,7 @@ repository               : "AnAppledog/AnAppledog.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Ben Wang"
   pronouns         : # "he/his"  
   bio              : "A student of TianJin University"
