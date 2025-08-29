@@ -15,6 +15,8 @@ My research interests includes
  * **image restoration**
  * **video restoration**
 
+I am very excited about potential collaboration opportunities! If you share similar research interests and find my work interesting, I warmly welcome you to add my [Wechat]() for further discussion!
+
 
 # 🔥News
 ***
