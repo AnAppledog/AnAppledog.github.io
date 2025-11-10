@@ -21,7 +21,6 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 🔥News
 ***
-* *2025.07:* 🎉 Our paper will submit to AAAI 2026. Thanks all Collaborators!
 
 
 # 📝Publications
