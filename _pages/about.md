@@ -21,6 +21,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 🔥News
 ***
+* 2026.02 🎉🎉 1 paper accepted to CVPR 2026.
 
 
 # 📝Publications
