@@ -26,7 +26,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 📝Publications
 ***
-* Yanming Hui, Fanhua Shang, Hongying Liu, **Ben Wang**, Zhenwei Zhang, Liang Wan, Wei Feng, Tong Xue, Bingqin Lv; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026, pp. 16345-16354
+* Yanming Hui, Fanhua Shang, Hongying Liu, **Ben Wang**, Zhenwei Zhang, Liang Wan, Wei Feng, Tong Xue, Bingqin Lv. "VSRELL: A Simple Baseline for Video Super-Resolution and Enhancement in Low-Light Environment". Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026, pp. 16345-16354
 
 # 📖Educations
 ***
