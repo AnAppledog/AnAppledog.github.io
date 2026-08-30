@@ -26,8 +26,9 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 📝Publications
 ***
-
+* Yanming Hui, Fanhua Shang, Hongying Liu, **Ben Wang**, Zhenwei Zhang, Liang Wan, Wei Feng, Tong Xue, Bingqin Lv; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026, pp. 16345-16354
 
 # 📖Educations
 ***
-* *2022.08 - Present*, B.S., College of Intelligence and Computing, Tianjin University
+* *2022.08 - 2026.06*, B.S., College of Intelligence and Computing, Tianjin University
+* *2026.08 - Present*, M.S., School of Cybersecurity, Tianjin University
