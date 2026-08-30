@@ -30,5 +30,6 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 📖Educations
 ***
-* *2022.08 - 2026.06*, B.S., College of Intelligence and Computing, Tianjin University
 * *2026.08 - Present*, M.S., School of Cybersecurity, Tianjin University
+* *2022.08 - 2026.06*, B.S., College of Intelligence and Computing, Tianjin University
+
