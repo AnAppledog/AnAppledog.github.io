@@ -9,14 +9,14 @@ redirect_from:
 
 # 👀Biography
 ***
-Hi there! I am a fourth-year undergraduate student in the College of Intelligence and Computing, Tianjin University.  Currently, I worked as a research assistant in the Graphics Imaging and Media Computing Group, under the guidance of  [Dr. Fanhua Shang](https://sites.google.com/site/fanhua217/home).
+Hi there! I’m a M.S. student at Tianjin University advised by Dr. [Fanhua Shang](https://sites.google.com/site/fanhua217/home). I obtained my B.S. degree at the College of Intelligence and Computing, Tianjin University
 
 My research interests includes
  * **Computer Vision**
- * **Image Restoration**
  * **Video Restoration**
+   Composite Degradation Video AiO Restoration, Lightweight Video AiO Restoration, Multi-view Video AiO Restoration
 
-I am very excited about potential collaboration opportunities! If you share similar research interests and find my work interesting, I warmly welcome you to add my Wechat for further discussion!
+🤝 Open to collaborations! Feel free to reach out if our research interests align!
 
 
 # 🔥News
